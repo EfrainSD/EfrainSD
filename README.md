@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Efraín Sánchez Díaz</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on [Sierra Chica Software](https://www.sierrachica.com)
+- 🔭 I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com)
 
 - 🌱 I’m currently learning Unity, C#, Python
 
