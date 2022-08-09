@@ -22,6 +22,8 @@
 
 <p align="center"><img src="![Visitor Count](https://profile-counter.glitch.me/EfrainSD/count.svg)" alt="EfrainSD :: Visitor's Count" /></p>
 
+![](https://komarev.com/ghpvc/?username=jacobreidwd&color=ff69b4)
+
 <h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
