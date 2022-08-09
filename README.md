@@ -5,9 +5,9 @@
 
 <h3 align="center">A passionate developer from Spain</h3>
 
-<h3> ⚡ I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com) </h3>
+<h3> ⚡ I’m currently working on https://www.sierrachica.com </h3>
 
-<h3> 📠 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD) </h3>
+<h3> 📠 All of my projects are available at https://github.com/EfrainSD </h3>
     
 <h3> 📫 You can reach me at: </h3>
 
