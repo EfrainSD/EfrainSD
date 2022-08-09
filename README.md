@@ -5,17 +5,11 @@
 
 <h3 align="center">A passionate developer from Spain</h3>
 
-- ⚡ I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com)
+<h3> ⚡ I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com) </h3>
 
-- 📠 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD)
-
-- 📫 You can reach me at:
-    **juanefrain4@gmail.com**
+<h3> 📠 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD) </h3>
     
-    
-    
-    
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻📫 You can reach me at: </h3>
 
 <p align="center">
 
