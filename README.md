@@ -20,9 +20,9 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-![Visitor Count](https://profile-counter.glitch.me/EfrainSD/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/{EfrainSD}/count.svg" alt="EfrainSD :: Visitor's Count" /></p>
 
-![](https://komarev.com/ghpvc/?username=jacobreidwd&color=ff69b4)
+![Visitor Count](https://profile-counter.glitch.me/EfrainSD/count.svg)
 
 <h4 align="center">Top langs </h4>
 
