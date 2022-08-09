@@ -42,6 +42,10 @@
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Jupiter NoteBook</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupiter.svg">
+      </td>
     </tr>
   </tbody>
 </table>
