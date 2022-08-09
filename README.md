@@ -50,15 +50,13 @@
   </tbody>
 </table>
 
-### Github Stats
+### Profile Stats
 
-<h2 align="center">Github stats :bar_chart: </h2>
+<h2>Profile stats :bar_chart: </h2>
 
-
-<h4 align="center">Profile stats </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave" alt="EfrainSD :: Profile Stats" /></p>
 
 
 
-[![EfrainSD GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&count_private=true)](https://github.com/EfrainSD)
+[![EfrainSD GitHub Stats]([https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave))](https://github.com/EfrainSD)
