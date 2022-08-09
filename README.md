@@ -1,14 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Juan Efraín Sánchez Díaz 👨‍💻 </h1>
 
- <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+ <img src="https://komarev.com/ghpvc/?username=EfrainSD" alt="EfrainSD" />
 
-<p align="center">
- <img width="100px" src="https://profile-counter.glitch.me/{EfrainSD}/count.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
 
 <h3 align="center">A passionate developer from Spain</h3>
 
