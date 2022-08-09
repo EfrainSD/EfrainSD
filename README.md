@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Efraín Sánchez Díaz</h1>
+### Hi 👋, I'm Juan Efraín Sánchez Díaz :technologist
+
 <h3 align="center">A passionate developer from Spain</h3>
 
 - 🔭 I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com)
