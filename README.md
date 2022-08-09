@@ -9,7 +9,7 @@
 
 <h3> 📠 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD) </h3>
     
-<h3> 🤝🏻📫 You can reach me at: </h3>
+<h3> 📫 You can reach me at: </h3>
 
 <p align="center">
 
