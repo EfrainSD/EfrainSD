@@ -11,8 +11,8 @@
 - 📫 You can reach me at:
     **juanefrain4@gmail.com**
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  <a href="linkedin.com/in/juan-efraín-sánchez-díaz-6554451b1">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Efraín Sánchez Díaz's LinkedIn Profile" height="30" width="30">
   </a>
 
 
