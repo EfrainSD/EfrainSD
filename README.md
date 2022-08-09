@@ -7,8 +7,6 @@
 
 - ⚡ I’m currently working on [Sierra Chica Software SL](https://www.sierrachica.com)
 
-- 🌱 I’m currently learning Unity, C#, Python
-
 - 📠 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD)
 
 - 📫 You can reach me at:
