@@ -43,7 +43,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
     </tr>
     <tr valign="botom">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>Haskell</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/haskell.svg">
       </td>
