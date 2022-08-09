@@ -1,4 +1,4 @@
-### Hi 👋, I'm Juan Efraín Sánchez Díaz :technologist
+### Hi 👋, I'm Juan Efraín Sánchez Díaz 👨‍💻 
 
 <h3 align="center">A passionate developer from Spain</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Unity, C#, Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD)
+-All of my projects are available at [https://github.com/EfrainSD](https://github.com/EfrainSD)
 
 - 📫 How to reach me **juanefrain4@gmail.com**
 
