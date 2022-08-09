@@ -52,13 +52,10 @@
 
 ### Github Stats
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">Github stats :bar_chart: </h2>
 
-<h4 align="center">Top langs </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrainSD&langs_count=10&theme=tokyonight&layout=compact" alt="EfrainSD :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave" alt="EfrainSD :: Profile Stats" /></p>
 
