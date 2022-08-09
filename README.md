@@ -53,9 +53,4 @@
 
 <h2>Profile stats :bar_chart: </h2>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave" alt="EfrainSD :: Profile Stats" /></p>
-
-
-
 [![EfrainSD GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave))](https://github.com/EfrainSD)
