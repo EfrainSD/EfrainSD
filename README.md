@@ -22,12 +22,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EfrainSD}/count.svg" alt="EfrainSD :: Visitor's Count" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/EfrainSD/count.svg)
-
 <h4 align="center">Top langs </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrainSD&langs_count=10&theme=tokyonight&layout=compact" alt="EfrainSD :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave" alt="EfrainSD :: Profile Stats" /></p>
