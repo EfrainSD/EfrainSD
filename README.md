@@ -23,9 +23,9 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Efraín Sánchez Díaz's LinkedIn Profile" height="30" width="30">
   </a>
 
-<a href="mailto:juanefrain4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanefrian4@gmail.com-blue?style=flat&logo=gmail"></a>
+   <a href="mailto:juanefrain4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanefrian4@gmail.com-blue?style=flat&logo=gmail"></a>
+   
 </p>
-
 
   
 ## Programming Languages 🌐
