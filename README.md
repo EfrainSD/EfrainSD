@@ -15,6 +15,8 @@
     **juanefrain4@gmail.com**
     
     
+    
+    
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -24,6 +26,8 @@
    <a href="mailto:juanefrain4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanefrain4@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+  
+  
   
 ## Programming Languages 🌐
 
@@ -49,6 +53,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 
 <h2>Profile stats :bar_chart: </h2>
