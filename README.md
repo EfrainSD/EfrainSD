@@ -42,18 +42,12 @@
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
     </tr>
-    <tr valign="botom">
-      <td width="25%" align="center">
-        <span>Haskell</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/haskell.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 
 
 
 
-<h2>Profile stats :bar_chart: </h2>
+// <h2>Profile stats :bar_chart: </h2>
 
-[![EfrainSD GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave))](https://github.com/EfrainSD)
+// [![EfrainSD GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave))](https://github.com/EfrainSD)
