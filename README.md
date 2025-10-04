@@ -44,10 +44,3 @@
     </tr>
   </tbody>
 </table>
-
-
-
-
-<h2>Profile stats :bar_chart: </h2>
-
-[![EfrainSD GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrainSD&show_icons=true&theme=synthwave))](https://github.com/EfrainSD)
